@@ -13,7 +13,7 @@
                     </div>
                 </div>
                 <div class="uk-width-expand">
-                    <h3 class="title2">Mây Mưa</h3>
+                    <h3 class="title2 uk-text-truncate">Mây Mưa</h3>
                     <span class="uk-text-middle" style="color: #d7af31">2000</span>
                     <img src="imgs/huyc.png" alt="">
                 </div>
@@ -29,7 +29,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="uk-width-expand">
+                <div class="uk-width-expand uk-text-truncate">
                     <span class="name1 uk-text-middle">Quyền Royaldesign</span>
                     <span class="uk-text-middle" style="color: #a8a8a8">2000</span>
                     <img src="imgs/huyc.png" alt="">
@@ -44,7 +44,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="uk-width-expand">
+                <div class="uk-width-expand uk-text-truncate">
                     <span class="name1 uk-text-middle">Nguyễn Tiến</span>
                     <span class="uk-text-middle" style="color: #a8a8a8">2000</span>
                     <img src="imgs/huyc.png" alt="">

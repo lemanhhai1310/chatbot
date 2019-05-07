@@ -10,6 +10,10 @@
                 'icon' => array(
                     '',
                 ),
+                'doibong' => array(
+                    'imgs/mu.png',
+                    'imgs/barca.png',
+                ),
                 'desc' => array(
                     'Chúc a e nhà ta ai ngủ thì ngủ ngon ! Ai đi làm sẽ có một ngày làm việc tràn đầy năng lượng nhé ! The Blues của chúng ta đã hoàn thành nhiêm vụ r ! Bây giờ chúng ta cùng chờ đợi các đội còn lại để chiến đấu cho một vị trí trong top 4 thôi ! KTBFFH !!!',
                 ),
@@ -80,8 +84,7 @@
                     '',
                 ),
                 'desc' => array(
-                    'Góc xin tri thức!
-Mình đang cần mượn quyển này để dùng 1 tuần, a c e bạn bè nào có và đang không dùng thì cho mình mượn nhoé! cafe hậu tạ! :))',
+                    'Góc xin tri thức! Mình đang cần mượn quyển này để dùng 1 tuần, a c e bạn bè nào có và đang không dùng thì cho mình mượn nhoé! cafe hậu tạ! :))',
                 ),
             ),
         );
@@ -98,9 +101,11 @@ Mình đang cần mượn quyển này để dùng 1 tuần, a c e bạn bè nà
                     </div>
                 </div>
                 <div class="uk-width-expand">
-                    <div class="uk-flex uk-flex-middle uk-flex-between uk-margin-small top">
+                    <div class="uk-flex uk-flex-middle uk-flex-between uk-margin-small top uk-position-relative">
                         <div>
                             <span class="name"><a href="#"><?= $value['name'] ?></a></span>
+                            <?php include('info_user.php'); ?>
+                            <?php include('select_soccer.php'); ?>
                         </div>
                         <div>
                             <small class="uk-margin-small-right">7 giờ trước</small>
