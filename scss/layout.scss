@@ -1,0 +1,10 @@
+#root{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+@import "box_comment";
+@import "box_chat";
+@import "commons";
+@import "box_tab";
+@import "top";

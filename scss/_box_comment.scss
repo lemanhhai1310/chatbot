@@ -1,0 +1,40 @@
+.comment{
+  padding: 10px;
+  padding-bottom: 0;
+  background-color: #323232;
+  .uk-input{
+    background-color: #191919;
+    font-size: 14px;
+    border-color: #191919;
+    color: #7b7b7b;
+    padding: 10px 15px;
+    height: 46px;
+    &::placeholder{
+      color: #7b7b7b;
+    }
+  }
+}
+.box1{
+  border-bottom: 3px solid #616161;
+}
+.box2{
+  span{
+    font-size: 14px;
+    color: #8d8d8d;
+  }
+}
+.emoji{
+  opacity: 0.5;
+  right: 10px;
+  &:hover{
+    opacity: 1;
+  }
+}
+.btn-send{
+  opacity: 0.5;
+  background-color: transparent;
+  border-color: transparent;
+  &:hover{
+    opacity: 1;
+  }
+}

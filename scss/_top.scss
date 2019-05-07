@@ -1,0 +1,28 @@
+.title1{
+  font-size: 14px;
+  margin: 0;
+  padding: 5px 15px;
+  color: #030303;
+}
+.box3{
+  background-color: #030303;
+  padding: 10px 15px;
+}
+.hc{
+  width: 50px;
+  max-width: inherit;
+}
+.title2{
+  font-size: 17.6px;
+  margin: 0;
+  color: #ffffff;
+  font-weight: bold;
+}
+.name1{
+  color: #ffffff;
+}
+.t1{
+  &:nth-child(n+2){
+    margin-top: 5px !important;
+  }
+}
