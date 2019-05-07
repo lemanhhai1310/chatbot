@@ -12,6 +12,7 @@
     <script src="assets/jquery/jquery-3.3.1.js"></script>
     <script src="assets/uikit-3.0.3/js/uikit.min.js"></script>
     <script src="assets/uikit-3.0.3/js/uikit-icons.min.js"></script>
+    <script src="js/functions.js"></script>
 </head>
 <body>
 <section id="root" class="uk-height-viewport">
