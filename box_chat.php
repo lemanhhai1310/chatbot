@@ -417,11 +417,13 @@
                         <div class="uk-grid-small" uk-grid>
                             <div class="uk-width-auto">
                                 <div class="uk-position-relative">
-                                    <div class="uk-cover-container uk-border-circle">
+                                    <div class="uk-cover-container uk-border-circle avarta1">
                                         <img src="<?= $value['avarta'] ?>" alt="" uk-cover>
                                         <canvas width="36" height="36"></canvas>
                                     </div>
+                                    <?php include('info_user.php'); ?>
                                     <a href="#" class="uk-position-bottom-right fan"><img src="<?= $value['src'] ?>" alt=""></a>
+                                    <?php include('select_soccer.php'); ?>
                                 </div>
                             </div>
                             <div class="uk-width-expand">
@@ -500,11 +502,13 @@
                         <div class="uk-grid-small" uk-grid>
                             <div class="uk-width-auto">
                                 <div class="uk-position-relative">
-                                    <div class="uk-cover-container uk-border-circle">
+                                    <div class="uk-cover-container uk-border-circle avarta1">
                                         <img src="<?= $value['avarta'] ?>" alt="" uk-cover>
                                         <canvas width="36" height="36"></canvas>
                                     </div>
+                                    <?php include('info_user.php'); ?>
                                     <a href="#" class="uk-position-bottom-right fan"><img src="<?= $value['src'] ?>" alt=""></a>
+                                    <?php include('select_soccer.php'); ?>
                                 </div>
                             </div>
                             <div class="uk-width-expand">
@@ -535,8 +539,6 @@
                                                 }
                                             }
                                         ?>
-                                        <?php include('info_user.php'); ?>
-                                        <?php include('select_soccer.php'); ?>
                                     </div>
                                     <div>
                                         <img src="imgs/ico2.png" alt="">

@@ -1,4 +1,4 @@
-<div class="select1" uk-dropdown="mode: click">
+<div class="select1" uk-dropdown="mode: click; pos: right-top;">
     <h3 class="title3">Chọn đội bóng yêu thích của bạn</h3>
     <ul class="uk-subnav uk-subnav-pill tab2" uk-switcher>
         <?php

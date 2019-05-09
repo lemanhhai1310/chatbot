@@ -3,10 +3,11 @@
   width: 100%;
   border: 1px solid #464646;
   padding: 10px;
-  min-width: 100%;
+  min-width: calc(100vw - 85px);
 }
 .box4{
   font-size: 12px;
+  margin-top: 2px;
 }
 .doibong{
   height: 20px;

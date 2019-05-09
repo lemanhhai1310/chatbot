@@ -1,4 +1,4 @@
-<div class="user_info uk-box-shadow-small" uk-dropdown="mode: click">
+<div class="user_info uk-box-shadow-small" uk-dropdown="mode: click; pos: right-top;">
     <div class="uk-grid-small" uk-grid>
         <div class="uk-width-auto">
             <div class="uk-cover-container">

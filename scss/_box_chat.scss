@@ -68,3 +68,9 @@
   color: #ffcf35;
   margin: 0;
 }
+.avarta1{
+  border: 2px solid transparent;
+  &.uk-open{
+    border-color: #8cba3f;
+  }
+}
