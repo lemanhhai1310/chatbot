@@ -2,13 +2,14 @@
   padding: 10px;
   padding-bottom: 0;
   background-color: #323232;
-  .uk-input{
+  .uk-textarea{
     background-color: #191919;
     font-size: 14px;
     border-color: #191919;
     color: #ffffff;
     padding: 10px 15px;
     height: 46px;
+    padding-right: 30px;
     &::placeholder{
       color: #7b7b7b;
     }
@@ -22,6 +23,13 @@
     font-size: 14px;
     color: #8d8d8d;
   }
+}
+.show_count{
+  font-size: 14px;
+  color: #8d8d8d;
+  background-color: transparent;
+  border: none;
+  text-align: right;
 }
 .emoji{
   opacity: 0.5;

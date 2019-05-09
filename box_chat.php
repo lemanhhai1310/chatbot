@@ -1,5 +1,5 @@
 <div class="chat uk-overflow-auto uk-position-relative">
-    <div class="uk-container">
+    <div class="uk-container uk-container-expand">
         <ul id="my-id" class="uk-switcher">
             <li>
                 <?php
@@ -430,8 +430,6 @@
                                 <div class="uk-flex uk-flex-middle uk-flex-between uk-margin-small top uk-position-relative">
                                     <div>
                                         <span class="name"><a href="#"><?= $value['name'] ?></a></span>
-                                        <?php include('info_user.php'); ?>
-                                        <?php include('select_soccer.php'); ?>
                                     </div>
                                     <div>
                                         <img src="imgs/ico2.png" alt="">
@@ -564,3 +562,23 @@
         <a href="javascript:void(0)"><img src="imgs/back-bot.png" alt=""></a>
     </div>
 </div>
+<script>
+    $(window).on('load', function () {
+        var h = $('.chat .uk-container').height();
+        var scrollHeight = $('.chat').height();
+        // Xử lý hiện button back-bottom khi scroll lên trên
+        $('.chat').on("scroll", function() {
+            var scrollPosition = $('.chat').scrollTop();
+            if (scrollPosition <= scrollHeight) {
+                $('.back-bot').addClass('uk-open');
+            }else {
+                $('.back-bot').removeClass('uk-open');
+            }
+        });
+
+        // Xử  lý click button scroll to bottom
+        $('.back-bot').on("click", function () {
+            $('.chat').animate({scrollTop: h - scrollHeight},600);
+        })
+    });
+</script>

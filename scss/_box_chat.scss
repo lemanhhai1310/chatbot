@@ -2,10 +2,28 @@
   flex: 1;
   background-color: #181818;
   padding: 10px 0;
+  &::-webkit-scrollbar{
+    width: 5px;
+  }
+  &::-webkit-scrollbar-thumb{
+    background: #888;
+    border-radius: 50px;
+  }
+  &::-webkit-scrollbar-track{
+    background: rgba(241,241,241,0.5);
+    border-radius: 50px;
+  }
 }
 .back-bot{
   position: fixed !important;
+  opacity: 0;
   bottom: 115px;
+  transition: all .3s;
+  visibility: hidden;
+  &.uk-open{
+    opacity: 1;
+    visibility: visible;
+  }
   img{
     width: 38px;
   }

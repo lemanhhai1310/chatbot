@@ -4,6 +4,9 @@
   border: 1px solid #464646;
   padding: 10px;
   min-width: calc(100vw - 85px);
+  @media(min-width: 960px){
+    min-width: calc(100vw - 135px);
+  }
 }
 .box4{
   font-size: 12px;
