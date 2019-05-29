@@ -2,41 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0e3a518-c87e-4a65-97e1-ccfdd696bd3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/demo/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/css/emoji.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/css/emoji.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/IconsetSmiles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/IconsetSmiles_1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/IconsetW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/IconsetW_1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/emoji_spritesheet_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/emoji_spritesheet_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/emoji_spritesheet_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/emoji_spritesheet_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/img/emoji_spritesheet_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/js/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/js/emoji-picker.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/js/emoji-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/js/emoji-picker.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/js/jquery.emojiarea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/lib/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/emoji-picker-master/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/box_chat_mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/box_comment_mb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat_mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/delete-photo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/box_chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/box_chat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/box_comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/box_comment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/box_tab.php" beforeDir="false" afterPath="$PROJECT_DIR$/box_tab.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/ico2.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/ico2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_box_chat.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_box_chat.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_box_comment.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_box_comment.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_info_user.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_info_user.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_select_soccer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_select_soccer.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,28 +22,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6510417">
+    <splitter split-orientation="horizontal" split-proportion="0.59285">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/box_chat.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="866">
-                  <caret line="570" column="56" selection-start-line="570" selection-start-column="56" selection-end-line="570" selection-end-column="56" />
-                  <folding>
-                    <element signature="e#195#20934#0#PHP" />
-                    <element signature="e#23279#25699#0#PHP" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/box_comment.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+                <state relative-caret-position="683">
+                  <caret line="543" column="161" selection-start-line="543" selection-start-column="161" selection-end-line="543" selection-end-column="161" />
                 </state>
               </provider>
             </entry>
@@ -83,7 +53,7 @@
             <entry file="file://$PROJECT_DIR$/header.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
-                  <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+                  <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
                 </state>
               </provider>
             </entry>
@@ -93,6 +63,42 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="60">
                   <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chat_mobile.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/box_comment_mb.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/footer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/box_chat_mobile.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="447">
+                  <caret line="433" column="153" selection-start-line="433" selection-start-column="153" selection-end-line="433" selection-end-column="153" />
                 </state>
               </provider>
             </entry>
@@ -167,8 +173,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_box_chat.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" selection-start-line="21" selection-end-line="21" />
+                <state relative-caret-position="641">
+                  <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -185,8 +191,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/_box_comment.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="465">
-                  <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+                <state relative-caret-position="420">
+                  <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -209,7 +215,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/scss/_commons.scss" />
         <option value="$PROJECT_DIR$/scss/_box_tab.scss" />
         <option value="$PROJECT_DIR$/scss/_top.scss" />
@@ -221,13 +226,17 @@
         <option value="$PROJECT_DIR$/info_user.php" />
         <option value="$PROJECT_DIR$/scss/_info_user.scss" />
         <option value="$PROJECT_DIR$/scss/_select_soccer.scss" />
-        <option value="$PROJECT_DIR$/scss/_box_comment.scss" />
         <option value="$PROJECT_DIR$/select_soccer.php" />
-        <option value="$PROJECT_DIR$/box_tab.php" />
-        <option value="$PROJECT_DIR$/scss/_box_chat.scss" />
-        <option value="$PROJECT_DIR$/box_comment.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/box_tab.php" />
+        <option value="$PROJECT_DIR$/chat_mobile.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/box_comment.php" />
+        <option value="$PROJECT_DIR$/scss/_box_comment.scss" />
+        <option value="$PROJECT_DIR$/box_comment_mb.php" />
+        <option value="$PROJECT_DIR$/scss/_box_chat.scss" />
         <option value="$PROJECT_DIR$/box_chat.php" />
+        <option value="$PROJECT_DIR$/box_chat_mobile.php" />
       </list>
     </option>
   </component>
@@ -256,40 +265,6 @@
             <path>
               <item name="html.chatbot" type="b2602c69:ProjectViewProjectNode" />
               <item name="html.chatbot" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.chatbot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.chatbot" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="emoji-picker-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.chatbot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.chatbot" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="emoji-picker-master" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.chatbot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.chatbot" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="emoji-picker-master" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.chatbot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.chatbot" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="emoji-picker-master" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.chatbot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.chatbot" type="462c0819:PsiDirectoryNode" />
               <item name="imgs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -312,15 +287,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -347,18 +323,22 @@
       <updated>1557158791307</updated>
       <workItem from="1557158792711" duration="28998000" />
       <workItem from="1557335805908" duration="466000" />
-      <workItem from="1557416569767" duration="7763000" />
+      <workItem from="1557416569767" duration="9130000" />
+      <workItem from="1558669609858" duration="1004000" />
+      <workItem from="1559043207823" duration="727000" />
+      <workItem from="1559056608752" duration="18000" />
+      <workItem from="1559096186279" duration="1070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37227000" />
+    <option name="totallyTimeSpent" value="41413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="731" y="37" width="1304" height="1293" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19017433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20206022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -384,13 +364,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imgs/hc.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -415,10 +388,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box_comment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box_tab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box_comment_mb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/select_soccer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -426,6 +437,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_info_user.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="6" selection-start-column="2" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_select_soccer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -450,80 +475,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_info_user.scss">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="6" selection-start-column="2" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_select_soccer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_box_comment.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/info_user.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/select_soccer.php">
+    <entry file="file://$PROJECT_DIR$/chat_mobile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/box_tab.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/imgs/ico2.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_box_chat.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/box_comment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="641">
+          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/box_chat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="866">
-          <caret line="570" column="56" selection-start-line="570" selection-start-column="56" selection-end-line="570" selection-end-column="56" />
-          <folding>
-            <element signature="e#195#20934#0#PHP" />
-            <element signature="e#23279#25699#0#PHP" />
-          </folding>
+        <state relative-caret-position="683">
+          <caret line="543" column="161" selection-start-line="543" selection-start-column="161" selection-end-line="543" selection-end-column="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box_chat_mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="433" column="153" selection-start-line="433" selection-start-column="153" selection-end-line="433" selection-end-column="153" />
         </state>
       </provider>
     </entry>

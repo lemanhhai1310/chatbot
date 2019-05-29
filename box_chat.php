@@ -432,7 +432,8 @@
                                         <span class="name"><a href="#"><?= $value['name'] ?></a></span>
                                     </div>
                                     <div>
-                                        <img src="imgs/ico2.png" alt="">
+                                        <a href="#" class="uk-button btn btn1 uk-button-default" uk-tooltip="Xóa tin nhắn"><img src="imgs/delete-photo.png" alt=""></a>
+                                        <a href="#" class="uk-button btn btn2 uk-button-default" uk-tooltip="Ban người dùng"><img src="imgs/ico2.png" alt=""></a>
                                         <small class="uk-margin-small-right uk-text-middle">7 giờ trước</small>
                                         <img src="imgs/vi.png" alt="">
                                     </div>
@@ -474,7 +475,7 @@
                         ),
                     ),
                     array(
-                        'avarta' => 'https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-9/14064079_171589096603175_169440415653349939_n.jpg?_nc_cat=110&_nc_oc=AQlIw_01uBPwX6D9AqjynRV8z0iNDT5HnRqNsa_ipmvcWYkeoY2KbOuUvUQ82z_T3tw&_nc_ht=scontent.fhan3-1.fna&oh=fa9418bb89077b0d938de46b3736c5d6&oe=5D6C2772',
+                        'avarta' => 'https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-9/59921269_1671923902952505_8233623791591227392_o.jpg?_nc_cat=109&_nc_oc=AQmR7v1Yagb1OtGo_8kPvE-I35HK1NKHgXZ9M3PnbXLmpI6fXe9-CTTLLBCMBJ34RHI&_nc_ht=scontent.fhan3-1.fna&oh=ab0289480d0a58f6225d33eb7ccb43a3&oe=5D74613C',
                         'src' => 'imgs/mu.png',
                         'name' => 'The Flash',
                         'account' => array(
@@ -539,7 +540,8 @@
                                         ?>
                                     </div>
                                     <div>
-                                        <img src="imgs/ico2.png" alt="">
+                                        <a href="#" class="uk-button btn btn1 uk-button-default" uk-tooltip="Xóa tin nhắn"><img src="imgs/delete-photo.png" alt=""></a>
+                                        <a href="#" class="uk-button btn btn2 uk-button-default" uk-tooltip="Ban người dùng"><img src="imgs/ico2.png" alt=""></a>
                                         <small class="uk-margin-small-right uk-text-middle">7 giờ trước</small>
                                         <img src="imgs/vi.png" alt="">
                                     </div>
@@ -579,6 +581,7 @@
         // Xử  lý click button scroll to bottom
         $('.back-bot').on("click", function () {
             $('.chat').animate({scrollTop: h - scrollHeight},600);
+
         })
     });
 </script>
